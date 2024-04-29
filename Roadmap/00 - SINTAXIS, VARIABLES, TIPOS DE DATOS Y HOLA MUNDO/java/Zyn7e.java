@@ -39,7 +39,7 @@ public class Zyn7e {
     String miVariable = "Hola";
 
     // Constante
-    const int miConstanteDePI = 3.14159;
+    //const int miConstanteDePI = 3.14159;
 
 
 
@@ -81,8 +81,8 @@ public class Zyn7e {
      * Puede almacenar valores numéricos muy grandes (y pequeños)
      * con precisión.
      */
-    long numeroNegativoLong = -30000000000000000000000000L;
-    long numeroPositivoLong = 3000000000000000000000000000L;
+    //long numeroNegativoLong = -30000000000000000000000000L;
+    //long numeroPositivoLong = 3000000000000000000000000000L;
 
 
     // ###### Números de punto flotante ######
